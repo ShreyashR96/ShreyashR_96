@@ -21,8 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashr96&show_icons=true&locale=en" alt="shreyashr96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&" alt="shreyashr96" /></p>
-<a id="upiLink" href="upi://pay?pa=shreyashrakhunde96-1@okhdfcbank&pn=Shreyash%20Rakhunde&am=20.00&cu=INR&aid=uGICAgMDWqejZXw" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/Coursera_part1_certificate.pdf-removebg-preview.png" alt="Buy Me a Tea" width="250" height="200" style="margin-top:"-50";>
-</a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&" alt="shreyashr96" height="186"/></p>
+<p>
+  <a href="xtx" target="_blank">
+    <img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/Coursera_part1_certificate.pdf-removebg-preview.png" alt="Buy Me a Tea" width="200" height="200">
+  </a>
+</p>
