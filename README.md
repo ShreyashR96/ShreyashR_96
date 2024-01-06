@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashr96&show_icons=true&locale=en" alt="shreyashr96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&" alt="shreyashr96" /></p>
+<a href="https://github.com/ShreyashR96/ShreyashR96/blob/main/buymeatea-removebg-preview.png" target="_blank">
+  <img src="https://github.com/ShreyashR96/ShreyashR96/raw/main/buymeatea-removebg-preview.png" alt="Buy Me a Tea" width="200" height="200">
+</a>
+
