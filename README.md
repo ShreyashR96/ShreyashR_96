@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&" alt="shreyashr96" height="186"/></p>
 <p>
-  <a href="xtx" target="_blank">
+  <a href="https://github.com/ShreyashR96/ShreyashR96/blob/main/WhatsApp%20Image%202024-01-05%20at%205.19.12%20PM.jpeg" target="_blank">
     <img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/Coursera_part1_certificate.pdf-removebg-preview.png" alt="Buy Me a Tea" width="200" height="200">
   </a>
 </p>
