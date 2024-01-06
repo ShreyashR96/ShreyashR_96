@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/ShreyashR96/ShreyashR96/blob/main/Coursera_part1_certificate.pdf-removebg-preview.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyash Rakhunde</h1>
 <h3 align="center">A Cyber Security Enthusitic</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/ShreyashR96/ShreyashR96/blob/main/_1ae6e8ae-6f24-4674-ad1f-a41e441b2a4b.jpg">
@@ -22,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&" alt="shreyashr96" /></p>
 <a href="https://github.com/ShreyashR96/ShreyashR96/blob/main/buymeatea-removebg-preview.png" target="_blank">
-  <img src="https://github.com/ShreyashR96/ShreyashR96/raw/main/buymeatea-removebg-preview.png" alt="Buy Me a Tea" width="200" height="200">
+  <img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/Coursera_part1_certificate.pdf-removebg-preview.png" alt="Buy Me a Tea" width="250" height="200">
 </a>
 
