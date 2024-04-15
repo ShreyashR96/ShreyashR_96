@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/ShreyashR96/ShreyashR96/blob/main/_1ae6e8ae-6f24-4674-ad1f-a41e441b2a4b.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
-- 🌱 I’m currently learning **Google Cybersecurity Professional**
-
+- 🌱 I’m Recently Complated **Google Cybersecurity Professional**
+- Now Looking Forward to Learn **Bug Bounty**
 - 📫 How to reach me **shreyashrakhunde96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
