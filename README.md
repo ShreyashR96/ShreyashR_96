@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/ShreyashR96/ShreyashR96/blob/main/Red%20Minimal%20Talk%20About%20Marketing%20LinkedIn%20Banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyash Rakhunde</h1>
 <h3 align="center">A Cyber Security Enthusitic</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/ShreyashR96/ShreyashR96/blob/main/_1ae6e8ae-6f24-4674-ad1f-a41e441b2a4b.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
 - 🌱 I’m Recently Complated **Google Cybersecurity Professional Certificate**
@@ -32,7 +31,6 @@
 ![shreyashr96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&theme=radical&hide_border=false)<br/>
 ![shreyashr96's Stats](https://github-readme-stats.vercel.app/api?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
 ![shreyashr96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=shreyashr96&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
