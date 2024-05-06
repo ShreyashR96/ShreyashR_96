@@ -28,9 +28,9 @@
 </p>
 
 ### 📊 GitHub Stats:
-![shreyashr96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyashr96&theme=radical&hide_border=false)<br/>
-![shreyashr96's Stats](https://github-readme-stats.vercel.app/api?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![shreyashr96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShreyashR96&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyashR96&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashR96&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
