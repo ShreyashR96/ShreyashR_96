@@ -3,7 +3,7 @@
 <h3 align="center">A Cyber Security Enthusitic</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
-- 🌱 I’m Recently Complated **Google Cybersecurity Professional Certificate**
+- 🌱 I’m Recently Completed **Google Cybersecurity Professional Certificate**
 - 🚀 Now Looking Forward to Learn **Bug Bounty**
 - 📫 How to reach me **shreyashrakhunde96@gmail.com**
 
