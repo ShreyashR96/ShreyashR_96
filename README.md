@@ -33,6 +33,11 @@
 ![shreyashr96's Stats](https://github-readme-stats.vercel.app/api?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
 ![shreyashr96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashr96&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=shreyashr96&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShreyashR96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
   <a href="https://github.com/ShreyashR96/ShreyashR96/blob/main/WhatsApp%20Image%202024-01-05%20at%205.19.12%20PM.jpeg" target="_blank">
     <img src="https://github.com/ShreyashR96/ShreyashR96/blob/main/WhatsApp_Image_2024-01-06_at_3.09.18_PM-removebg-preview.png" alt="Buy Me a Tea" width="300" height="80">
