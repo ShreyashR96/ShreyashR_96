@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/ShreyashR96/ShreyashR96/blob/main/Red%20Minimal%20Talk%20About%20Marketing%20LinkedIn%20Banner.gif)]
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
