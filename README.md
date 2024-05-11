@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/ShreyashR96/ShreyashR96/blob/main/Red%20Minimal%20Talk%20About%20Marketing%20LinkedIn%20Banner.gif)]
-<h1 align="center">Hi 👋, I'm Shreyash Rakhunde</h1>
-<h3 align="center">A Cyber Security Enthusitic</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
 - 🌱 I’m Recently Completed **Google Cybersecurity Professional Certificate**
