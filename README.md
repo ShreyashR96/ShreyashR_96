@@ -1,8 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashr96&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashr96" /> </p>
 
-- 🌱 I’m Recently Completed **Google Cybersecurity Professional Certificate**
-- 🚀 Now Looking Forward to Learn **Bug Bounty**
+- 🌱 I’m Have Recently Completed **Google Cybersecurity Professional Certificate**
+- 🚀 Now Looking Forward to Learn **Computer Networking**
 - 📫 How to reach me **shreyashrakhunde96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
